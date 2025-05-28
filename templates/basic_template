@@ -1,0 +1,12 @@
+Name: ${name}
+Email: ${email}
+Phone: ${phone}
+
+Education:
+${education}
+
+Experience:
+${experience}
+
+Skills:
+${skills}
